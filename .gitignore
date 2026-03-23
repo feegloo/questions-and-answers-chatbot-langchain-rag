@@ -1,0 +1,37 @@
+# 🔐 Virtual environment
+v_env/
+.env/
+
+# 🐍 Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 📓 Jupyter Notebook
+.ipynb_checkpoints
+
+# 🧠 IDE / editor
+.vscode/
+
+# 🍏 macOS
+.DS_Store
+
+# 🔑 Environment variables / secrets
+.env
+.env.*
+*.env
+
+# 📝 Logs
+*.log
+
+# 🧬 mypy / type checking
+.mypy_cache/
+
+# 🧪 Ruff / linting
+.ruff_cache/
